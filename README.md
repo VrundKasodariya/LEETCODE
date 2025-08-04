@@ -16,7 +16,7 @@ I solve one **LeetCode Daily Problem** every day in **C++**, with clear, beginne
 ## 🧠 Why I'm Doing This
 
 - 🗓️ Build strong daily consistency and accountability
-- 🧩 Master problem-solving patterns (Sliding Window, Two Pointers, etc.)
+- 🧩 Master problem-solving patterns
 - 💬 Explain every line for future revision and community learning
 - 🔎 Prep deeply for coding interviews and assessments
 
