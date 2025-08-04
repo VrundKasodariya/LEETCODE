@@ -6,18 +6,18 @@
 
 // @lc code=start
 
-//Here we are using  SLiding window + unordered_map 
+// Problem Summary:
+// Here we are using  SLiding window + unordered_map 
 // The Problems states an array of fruits where fruits[i] is the type of ith fruit.
 // There are maximum 2 baskets provided, in which only 1 type o fruit can be added .
 // Note that there is max size of the basket given.
 
-
 // Imp = Once you encounter more than 2 fruits you stop
 // your goal is to get the maximum number of fruits.
 
-
 // NOTE: Now the question is : Find the lasrgest window(subarray) having atmost 2 unique fruits(numbers).
 
+// Approach:
 // You are using two pointers i and j which gives the current window.
 
 // you have a variable named count to store the maximum number fruit 
@@ -63,4 +63,3 @@ public:
     }
 };
 // @lc code=end
-
