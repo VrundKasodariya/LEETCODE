@@ -3,7 +3,8 @@
 [![LeetCode user Vrund_Kasodariya](https://img.shields.io/badge/LeetCode-Vrund__Kasodariya-orange?style=flat-square&logo=leetcode)](https://leetcode.com/Vrund_Kasodariya/)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VrundKasodariya&theme=tokyonight)
+![Vrund's GitHub stats](https://github-readme-stats.vercel.app/api?username=VrundKasodariya&show_icons=true&theme=radical)
+
 
 
 
