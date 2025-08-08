@@ -2,10 +2,6 @@
 
 [![LeetCode user Vrund_Kasodariya](https://img.shields.io/badge/LeetCode-Vrund__Kasodariya-orange?style=flat-square&logo=leetcode)](https://leetcode.com/Vrund_Kasodariya/)
 
-
-
-
-
 Welcome to my LeetCode Daily Challenge repository!  
 I solve one **LeetCode Daily Problem** every day in **C++**, with clear, beginner-friendly explanations embedded in each solution file.
 
