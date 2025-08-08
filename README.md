@@ -3,7 +3,7 @@
 [![LeetCode user Vrund_Kasodariya](https://img.shields.io/badge/LeetCode-Vrund__Kasodariya-orange?style=flat-square&logo=leetcode)](https://leetcode.com/Vrund_Kasodariya/)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VrundKasodariya&theme=dracula)](https://github.com/VrundKasodariya/github-readme-activity-graph)
+[![Vrund's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VrundKasodariya&theme=dracula)](https://github.com/VrundKasodariya/github-readme-activity-graph)
 
 
 
